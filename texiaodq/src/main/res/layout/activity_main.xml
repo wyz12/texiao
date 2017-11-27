@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="zxwl.com.texiaodq.MainActivity">
+
+    <Button
+        android:id="@+id/bse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="贝塞尔进度条" />
+
+    <Button
+        android:id="@+id/caid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="转盘选择菜单" />
+
+    <Button
+        android:id="@+id/dw"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="档位切换" />
+
+
+    <Button
+        android:id="@+id/jc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="节操" />
+
+    <Button
+        android:id="@+id/one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="一个" />
+    <Button
+        android:id="@+id/two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="二个" />
+    <Button
+        android:id="@+id/three"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="三个" />
+    <Button
+        android:id="@+id/four"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="四个" />
+    <Button
+        android:id="@+id/five"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="五个" />
+
+    <Button
+        android:id="@+id/six"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="六个" />
+
+</LinearLayout>
